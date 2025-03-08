@@ -1,1 +1,5 @@
-// componente-reutilizable.svelte - Ejemplo de Capitulo-02-Componentizacion
+<script>
+  export let texto = "Click Me";
+</script>
+
+<button>{texto}</button>

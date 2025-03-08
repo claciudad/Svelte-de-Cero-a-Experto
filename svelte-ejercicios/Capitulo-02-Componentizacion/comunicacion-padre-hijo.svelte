@@ -1,1 +1,5 @@
-// comunicacion-padre-hijo.svelte - Ejemplo de Capitulo-02-Componentizacion
+<script>
+  export let mensaje;
+</script>
+
+<p>Recibido: {mensaje}</p>

@@ -1,1 +1,1 @@
-// uso-aria.svelte - Ejemplo de Capitulo-05-Accesibilidad
+<button aria-label="Cerrar ventana">❌</button>

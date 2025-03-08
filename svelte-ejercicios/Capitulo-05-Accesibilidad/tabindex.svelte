@@ -1,1 +1,1 @@
-// tabindex.svelte - Ejemplo de Capitulo-05-Accesibilidad
+<div tabindex="0">Presiona Tab para enfocarme</div>
